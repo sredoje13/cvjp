@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/cvjp/static/css/main.1846f8cf.css",
+    "main.js": "/cvjp/static/js/main.2d67ba50.js",
+    "static/js/787.c324fc71.chunk.js": "/cvjp/static/js/787.c324fc71.chunk.js",
+    "static/media/pexels-nao-triponez-129208.jpg": "/cvjp/static/media/pexels-nao-triponez-129208.e0db44880d4db78a941c.jpg",
+    "static/media/slika1.jpg": "/cvjp/static/media/slika1.3601613d5e16fa2c7624.jpg",
+    "static/media/slika5.jpg": "/cvjp/static/media/slika5.ea0987834594beb6a905.jpg",
+    "static/media/slika2.jpg": "/cvjp/static/media/slika2.cb83b22cc0cfc5b639f0.jpg",
+    "static/media/slika3.jpg": "/cvjp/static/media/slika3.af6a1ed01efd5e3d5d82.jpg",
+    "static/media/slika4.jpg": "/cvjp/static/media/slika4.e5b130d66563382c566e.jpg",
+    "index.html": "/cvjp/index.html",
+    "main.1846f8cf.css.map": "/cvjp/static/css/main.1846f8cf.css.map",
+    "main.2d67ba50.js.map": "/cvjp/static/js/main.2d67ba50.js.map",
+    "787.c324fc71.chunk.js.map": "/cvjp/static/js/787.c324fc71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1846f8cf.css",
+    "static/js/main.2d67ba50.js"
+  ]
+}
